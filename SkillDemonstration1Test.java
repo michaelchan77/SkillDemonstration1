@@ -5,6 +5,6 @@ public class SkillDemonstration1Test {
     @Test
     public void concatenate() {
         assertEquals("pineapple", 
-        SkillDemonstration1.concatenate("pine", "berry"));
+        SkillDemonstration1.concatenate("pine", "apple"));
     }
 }
